@@ -22,8 +22,8 @@ permalink:           none
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           'Clean place의 블로그 '
-description:	       'test 입니다. '
+title:		           'Clean place's Blog '
+description:	       '맑은 터와 같은 곳'
 author:              'Kim Ji An'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
